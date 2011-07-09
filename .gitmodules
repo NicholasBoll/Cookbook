@@ -1,9 +1,6 @@
 [submodule "steal"]
 	path = steal
 	url = git@github.com:NicholasBoll/steal.git
-[submodule "jquerymx"]
-	path = jquerymx
-	url = git@github.com:NicholasBoll/jquerymx.git
 [submodule "funcunit"]
 	path = funcunit
 	url = git@github.com:NicholasBoll/funcunit.git
@@ -13,3 +10,6 @@
 [submodule "syn"]
 	path = syn
 	url = git@github.com:NicholasBoll/syn.git
+[submodule "jquery"]
+	path = jquery
+	url = git@github.com:NicholasBoll/jquerymx.git
