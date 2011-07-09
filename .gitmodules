@@ -10,3 +10,6 @@
 [submodule "documentjs"]
 	path = documentjs
 	url = git@github.com:NicholasBoll/documentjs.git
+[submodule "syn"]
+	path = syn
+	url = git@github.com:NicholasBoll/syn.git
